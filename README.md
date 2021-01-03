@@ -1,0 +1,1 @@
+# -Reading-contents-of-PDF-using-OCR-Optical-Character-Recognition-
